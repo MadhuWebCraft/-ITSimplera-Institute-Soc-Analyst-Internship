@@ -1,7 +1,5 @@
 # -ITSimplera-Institute-Soc-Analyst-Internship
 
-# ITSimplera Institute – Blue Team Internship
-
 This repository contains all weekly tasks and projects completed during my Blue Team Internship at ITSimplera Institute.
 
 ## Internship Duration
