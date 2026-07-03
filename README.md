@@ -1,4 +1,4 @@
-# -ITSimplera-Institute-Soc-Analyst-Internship
+# ITSimplera-Institute-Soc-Analyst-Internship
 
 This repository contains all weekly tasks and projects completed during my Blue Team Internship at ITSimplera Institute.
 
